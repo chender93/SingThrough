@@ -8,7 +8,7 @@ I'm trying to see if we are updating the same lines or if we have to tell the sy
 I'm going to update the Artsy part and then come back to it again.<<<<<<< Artsy
 Using the same line of text to update things as Artsy.
 I'm going to add the song Anatomy to this file.
-Working on this branch as we speak.<<<<<<< Anatomy
+Working on this branch as we are speaking.
 
 
 
