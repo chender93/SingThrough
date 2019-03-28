@@ -7,6 +7,8 @@ Adding this new portion for the original file.
 I'm trying to see if we are updating the same lines or if we have to tell the system that we are chaing lines.
 I'm going to update the Artsy part and then come back to it again.<<<<<<< Artsy
 Using the same line of text to update things as Artsy.
+I'm going to add the song Anatomy to this file.
+Working on this branch as we speak.<<<<<<< Anatomy
 
 
 
@@ -20,3 +22,4 @@ Contending by the mind and the body
 If we back down
 If we bow out
 We would be the beautiful consequence when we fall in
+
