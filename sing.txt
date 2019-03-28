@@ -5,4 +5,5 @@ This is my update for music
 This is the update that I'll have for art.
 Adding this new portion for the original file.
 I'm trying to see if we are updating the same lines or if we have to tell the system that we are chaing lines.
-I'm going to update the Artsy part and then come back to it again.
+I'm going to update the Artsy part and then come back to it again.<<<<<<< Artsy
+Using the same line of text to update things as Artsy.
