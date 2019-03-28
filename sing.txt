@@ -2,3 +2,5 @@ This is the beginning of what will never end. I'm glad that God chose me to be t
 This is me appending the first file I've created in GitHub
 This is my thril line in the file.
 This is my update for music
+
+Adding this new portion for the original file.
